@@ -1,8 +1,6 @@
 body{
-    height: 100vh;
-    
-    background-image: url("brain-6111125.png");
-    background-size: cover;
+  height: 100vh;
+  background-image: linear-gradient(to bottom right, rgba(4, 205, 255, 0.719), hsl(209, 80%, 81%)) ;
 }
 
 .HeadLine{
@@ -11,7 +9,7 @@ body{
   top: 4%;
   font-size: 700%;
   font-family: 'Courgette', cursive;
-  color: aquamarine;
+  color:rgb(119, 119, 119);
   text-shadow: 5px 5px 5px rgb(0, 0, 0);
 }
 
@@ -186,7 +184,7 @@ body{
     height: 7rem;
     width: 7rem;
     box-shadow: 5px 5px 5px rgb(2, 2, 2);
-    background-color:  rgb(241, 85, 85);
+    background-color:rgb(119, 119, 119);
   }
 
   #RunButton{
@@ -197,7 +195,7 @@ body{
     height: 7rem;
     width: 7rem;
     box-shadow: 5px 5px 5px rgb(2, 2, 2);
-    background-color:  rgb(241, 85, 85);
+    background-color:rgb(119, 119, 119);
   }
 
 
@@ -212,7 +210,7 @@ body{
   height: 7rem;
   width: 7rem;
   box-shadow: 0px 0px 5px 5px rgb(0, 0, 0);
-  background-color:  rgb(241, 85, 85);
+  background-color:rgb(119, 119, 119);
 }
 
 .ArmClass{
@@ -230,7 +228,7 @@ body{
   top: 50%;
   left: 90%;
   box-shadow: 0px 0px 5px 5px rgb(0, 0, 0);
-  background-color:  rgb(241, 85, 85);
+  background-color:rgb(119, 119, 119);
 }
 
 .BaseClass{
@@ -241,8 +239,8 @@ padding-top: 3rem;
 .UpButton{
  position: relative;
  left: 42%;
- background-color:aquamarine;
- color: rgb(0, 0, 0);
+ background-color:rgb(119, 119, 119);
+ color: rgb(187, 181, 181);
  border: none;
  border-radius: 50%;
  height: 9rem;
@@ -268,7 +266,7 @@ padding-top: 3rem;
 .DownButton{
   position: relative;
   left: 42%;
-  background-color:aquamarine;
+  background-color:rgb(119, 119, 119);
   color: rgb(0, 0, 0);
   border: none;
   border-radius: 50%;
@@ -303,14 +301,14 @@ padding-top: 3rem;
   font-family:cursive ;
   font-size: 150%;
   box-shadow: 5px 5px 5px rgb(2, 2, 2);
-  background-color:  rgb(241, 85, 85);
+  background-color:rgb(119, 119, 119);
   opacity: 100%;
  }
 
  .RightButton{
   position: relative;
   left: 0%;
-  background-color: aquamarine;
+  background-color:rgb(119, 119, 119);
   color: rgb(0, 0, 0);
   border: none;
   border-radius: 50%;
@@ -337,7 +335,7 @@ animation: RightSlide 1.5s linear infinite;
  .LeftButton{
   position: relative;
   left: 50%;
-  background-color:aquamarine;
+  background-color:rgb(119, 119, 119);
   color: rgb(0, 0, 0);
   border: none;
   border-radius: 50%;
@@ -370,7 +368,7 @@ animation: RightSlide 1.5s linear infinite;
     height: 7rem;
     width: 7rem;
     box-shadow: 5px 5px 5px rgb(2, 2, 2);
-    background-color:  rgb(241, 85, 85);
+    background-color:rgb(119, 119, 119);
   }
 
   .BaseRun{
@@ -382,6 +380,5 @@ animation: RightSlide 1.5s linear infinite;
     height: 7rem;
     width: 7rem;
     box-shadow: 5px 5px 5px rgb(2, 2, 2);
-    background-color:  rgb(241, 85, 85);
+    background-color:rgb(119, 119, 119);
   }
-
